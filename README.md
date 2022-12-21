@@ -32,13 +32,3 @@ Import an address and private key of an account into the "from" and "privateKey"
 ## Security
 
 This repository is maintained by the TRON community and is aimed to provide sample contracts with quality and security in mind. Please use common sense when using contracts associated with real money! These contracts are provided as-is; TRON Foundation takes no responsibility for any decisions made with these contracts.
-
-## Contribute
-
-Pull requests and suggestions are welcome.
-
-Feel free to consult the [Ethereum Conversion Guide](https://developers.tron.network/docs/converting-ethereum-contracts-to-tron) to port Ethereum smart contracts over to TRON.
-
-## License
-
-Released under the [MIT License](LICENSE).
